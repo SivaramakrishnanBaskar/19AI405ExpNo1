@@ -1,7 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Aravindhnath TR</h3>
-<h3>Register Number:212222100005</h3>
-
+<h3>Name: Sivaramakrishnan B</h3>
+<h3>Register Number:212222110044</h3>
 
 <h3>AIM:</h3>
 <br>
@@ -95,7 +94,6 @@ def TableDrivenVaccumAgent():
 """
 Tabular approach towards Vaccum cleaning
 """
-
 
 table = {
 ((loc_A, "Clean"),): "Right",
@@ -205,18 +203,14 @@ agent.location = loc_A
 agent.performance -= 1
 elif action == "Suck":
 
-
 if self.status[agent.location] == "Dirty":
 agent.performance += 10
 self.status[agent.location] = "Clean"
 def default_location(self, thing):
 
-
 return random.choice([loc_A, loc_B])
 
-
 if name == "main":
-
 
 agent = TableDrivenVaccumAgent()
 environment = TrivialVaccumEnvironment()
@@ -230,4 +224,3 @@ print(agent.performance)
 ```
 ## OUTPUT:
 ![Op1-ai1](https://github.com/user-attachments/assets/6fbfc6c4-7f67-41cf-a143-ef0cff1fdaf8)
-
