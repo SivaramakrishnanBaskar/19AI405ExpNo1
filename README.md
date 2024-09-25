@@ -1,4 +1,4 @@
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h1>Exp No 1:Developing AI Agent with PEAS Description</h1>
 
 <h3>Name: Sivaramakrishnan B</h3>
 <h3>Register Number:212222110044</h3>
