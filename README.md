@@ -225,6 +225,5 @@ print(agent.performance)
 ![Op1-ai1](https://github.com/user-attachments/assets/6fbfc6c4-7f67-41cf-a143-ef0cff1fdaf8)
 
 RESULT:
+
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
-
-
